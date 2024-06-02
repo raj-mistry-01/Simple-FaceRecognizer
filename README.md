@@ -19,5 +19,5 @@ first Carefully Read how.txt given in code folder
 ## Languages Used : 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
- ## 🌐 Credtis :
+ ## 🌐 Credits :
 - xml file is included from ```https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml```
