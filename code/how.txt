@@ -1,0 +1,7 @@
+Thank you for reading these
+fist configure paths according pathconfig.txt
+then run in sequence : 
+1) Sample Generator.py
+2) Trainer.py
+3) Face_Recognization.py
+press esc key to end up Face_Recognization.py

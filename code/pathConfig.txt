@@ -1,0 +1,15 @@
+carefully read this
+In code file i am giving the paths in r strings
+Because That paths are according your system 
+configure paths belowe : 
+1) In sample Generator.py :
+    path1 = path of haarcascade xml file which is in src folder
+    path2 = sampleFace folder's path (which is a empty folder)
+2) In Trainer.py :
+    path1 as mentioned above
+    path2 as mentioned above
+    path3 = train folder's path (which is a empty folder)
+
+3) In Face_Recognization.py :
+    path4 = train.yml's path (this train.yml will be cretead in train folder after runnig Train.py )
+    path1 as mentioned above
