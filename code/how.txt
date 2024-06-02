@@ -1,4 +1,6 @@
-Thank you for reading these
+Thank you for reading these.
+after cloning this repo.
+make two empty folder named 'sampleFace' and 'train' in which folder you have cloned this repo.
 fist configure paths according pathconfig.txt
 then run in sequence : 
 1) Sample Generator.py
