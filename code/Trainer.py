@@ -21,7 +21,7 @@ def imgs_and_paths (path) :
         for (x,y,z,w) in faces : 
             facesSamples.append(imgArr[y:y+w,x:x+z])
             ids.append(id)
-        return facesSamples,ids
+    return facesSamples,ids
     
 faces , ids = imgs_and_paths(path)
 recognizer.train(faces,np.array(ids))
