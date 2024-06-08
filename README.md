@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repo.
 
-To run **Security camera**, run this command on your git bash:
+To run **Simple Facerecognizer**, run this command on your git bash:
 
 Linux and macOS:
 
